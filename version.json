@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "release_date": "2024-05-14",
+  "changelog": [
+    "AI Oversight Engine — self-learning resell prevention with ResellGuard, LiveVerifier and OrderAnomalyDetector",
+    "Universal Item Detail Panel — image + details shown for any selected item across all tabs",
+    "Weekly Reprice — live competitor window showing your listing vs top competitor with images",
+    "SEO Title Rotation — title word order rotated weekly during reprice for fresh search rankings",
+    "Multi-platform manager — TikTok Shop OAuth integration ready, 10+ platforms in framework",
+    "Health Monitor — real-time system checks every 5 minutes with one-click fixes",
+    "Universal tooltip help system — hover any button or tab for detailed description",
+    "Orders: Relist button, sold/refunded stats bar, persistent refunded status across restarts",
+    "AI memory: permanent learning storage with 5GB management and backup on reset"
+  ],
+  "download_url": "https://github.com/autolistsweb/urban-nest-hub/releases/download/v1.0.0/UrbanNestSetup.exe",
+  "min_version": "1.0.0",
+  "notes": "First public release. Requires Windows 10 or 11."
+}
