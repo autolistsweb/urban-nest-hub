@@ -2,7 +2,7 @@
 
 **Last updated: 5 May 2026**  
 **Version: 1.0**  
-**Owner: Faz Tabani, Director — Urban Nest**
+**Owner: K. Nazir, Director — Urban Nest**
 
 ---
 
@@ -28,7 +28,7 @@ This policy applies to:
 Urban Nest Hub is a locally installed desktop application. Its architecture is designed with privacy by default:
 
 - All data is stored exclusively on the operator's local device. No data is transmitted to or stored on external servers owned or operated by Urban Nest.
-- API credentials, access tokens and seller data are stored in local configuration files on the operator's device.
+- API credentials, access tokens and seller data are stored in local configuration files (.env) on the operator's device.
 - The application communicates directly with platform APIs (TikTok Shop, eBay) over encrypted HTTPS connections. No intermediary server is used.
 - No buyer personal data is retained beyond the active session unless explicitly saved to the local device by the operator.
 
@@ -40,7 +40,7 @@ Urban Nest Hub is a locally installed desktop application. Its architecture is d
 
 - The Urban Nest Hub application is installed on a password-protected device with Windows authentication enabled.
 - Multi-factor authentication is enforced on all accounts associated with connected platforms (TikTok Shop, eBay).
-- API credentials are stored in local environment files with file-system-level access control restricted to the operating system user.
+- API credentials are stored in local environment files (.env) with file-system-level access control restricted to the operating system user.
 - No third parties are granted access to API credentials or the application.
 
 ### 4.2 Endpoint Security
@@ -59,13 +59,11 @@ Urban Nest Hub is a locally installed desktop application. Its architecture is d
 ### 4.4 Data Encryption
 
 - **Data in transit:** All communications with TikTok Shop and eBay APIs are encrypted via HTTPS/TLS.
-- **Data at rest:** Sensitive credentials stored locally are protected by operating system user-level access controls and device encryption.
+- **Data at rest:** Sensitive credentials stored locally are protected by operating system user-level access controls and device encryption (Windows BitLocker).
 
 ---
 
 ## 5. Data Classification
-
-Data processed by Urban Nest Hub is classified as follows:
 
 | Classification | Examples | Handling |
 |---|---|---|
@@ -113,12 +111,11 @@ This policy is reviewed annually and updated whenever significant changes occur 
 ## 10. Contact
 
 **Urban Nest**  
+Owner: K. Nazir, Director  
 United Kingdom  
-Email: contact@urbannest.co.uk
-
-For data protection queries or to report a security concern, please contact us directly.
+Email: faz@efficientboilerrepairs.co.uk
 
 ---
 
-*Authorised by: Faz Tabani, Director — Urban Nest*  
+*Authorised by: K. Nazir, Director — Urban Nest*  
 *Date: 5 May 2026*

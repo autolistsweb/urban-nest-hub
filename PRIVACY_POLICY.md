@@ -6,9 +6,12 @@
 
 ## 1. Who We Are
 
-Urban Nest is a UK-based e-commerce seller operating across multiple online marketplaces including TikTok Shop and eBay. Urban Nest Hub is a private desktop application used to manage listings, orders and inventory across connected selling platforms.
+Urban Nest is a UK-based e-commerce seller and software developer operating across multiple online marketplaces including TikTok Shop and eBay. Urban Nest Hub is a desktop application used to manage listings, orders and inventory across connected selling platforms.
 
-**Contact:** f***z@efficientboilerrepairs.co.uk  
+**Owner:** K. Nazir, Director  
+**Contact:** faz@efficientboilerrepairs.co.uk  
+**Company No.:** 13444965  
+**Registered Address:** Suite 11 (17B), Bridgewater House, Surrey Road, Nelson, Lancashire, BB9 7TZ  
 **Registered in:** United Kingdom
 
 ---
@@ -50,7 +53,7 @@ We do **not** use data for advertising, profiling, or any purpose beyond the dir
 Urban Nest Hub is a **locally installed desktop application**. All data is stored exclusively on the operator's local device:
 
 - No buyer or order data is transmitted to or stored on any external server owned or operated by Urban Nest.
-- API credentials and tokens are stored in local configuration files on the operator's device, protected by operating system access controls.
+- API credentials and tokens are stored in local configuration files (.env) on the operator's device, protected by operating system access controls.
 - All communications with platform APIs are encrypted using HTTPS/TLS.
 - The application does not operate any web server or cloud storage service.
 
@@ -87,7 +90,7 @@ Under the UK General Data Protection Regulation (UK GDPR) and the Data Protectio
 - **Right to object** — to object to processing of personal data
 - **Right to data portability** — to receive data in a machine-readable format
 
-To exercise any of these rights, please contact us at the email address above. We will respond within **30 days**.
+To exercise any of these rights, please contact us at **faz@efficientboilerrepairs.co.uk**. We will respond within **30 days**.
 
 ---
 
@@ -124,12 +127,13 @@ This privacy policy will be reviewed and updated at least annually, or whenever 
 
 For any questions about this privacy policy or to exercise your data rights, contact:
 
-**Urban Nest**  
-Email: f***z@efficientboilerrepairs.co.uk  
-United Kingdom
+**K. Nazir, Director**  
+Urban Nest  
+Suite 11 (17B), Bridgewater House, Surrey Road, Nelson, Lancashire, BB9 7TZ  
+Email: faz@efficientboilerrepairs.co.uk
 
 If you are not satisfied with our response, you have the right to lodge a complaint with the **Information Commissioner's Office (ICO)**:  
-Website: [https://ico.org.uk](https://ico.org.uk)  
+Website: https://ico.org.uk  
 Phone: 0303 123 1113
 
 ---
